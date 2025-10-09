@@ -11,3 +11,7 @@ c.print("Goodbye from venv")
 
 variable = 5
 c.print(f"Variable value: {variable}")
+
+dot = variable * 50000
+
+print(f"Dot product result: {dot}")
